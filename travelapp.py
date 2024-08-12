@@ -17,7 +17,7 @@ foot = st.container()
 
 with header:
     st.title('Travel Package Purchase Prediction')
-    st.image('travel4.jpg',width =700)
+    st.image('travel.jpg',width =700)
     st.header('Have a look at our dataset')
     st.write(df.head())
     st.markdown(' *** ')
